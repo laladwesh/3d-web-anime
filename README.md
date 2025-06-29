@@ -194,9 +194,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **GitHub**: [@laladwesh](https://github.com/laladwesh)
+- **GitHub**: [@laladwesh](https://github.com/laladwesh) and [@sherosomu](https://github.com/sherosomu)
 - **Live Demo**: [3d-web-anime.vercel.app](https://3d-web-anime.vercel.app)
 
 ---
 
-**Built with ❤️ for the gaming by LalaDwesh**
+Built with ❤️ by @laladwesh and @sherosomu
